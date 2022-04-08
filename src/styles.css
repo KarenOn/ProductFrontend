@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+/* Colores */
+/**
+
+Gris Claro -> #f6f6f6
+Rosa Pastel -> #ffe2e2
+Salmon -> #ffc7c7
+Gris -> c2c2c2
+Gris Oscuro -> #6b7d7d
+Marroncito Oscuro -> #816F63
+Rosa viejo -> #ba7b7c
+Rosa viejo claro -> #e5c5c5
+
+*/
+
+nav { background: #ba7b7c; }
+.customHeader { background: #e5c5c5; }
+div.card-body h5.fw-bolder { color: #816F63; }
+#navegacion li a, #navegacion a { color: #fff; }
+ul.dropdown-menu li a { color: #000 !important; }
+#navegacion li a:hover, #navegacion a:hover { color: #000; }
+.headerTitle h1, .headerTitle p.lead { color: #816F63 !important; }
